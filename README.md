@@ -1,6 +1,6 @@
 # Pokemon Battle Prediction Project
 
-This project uses machine learning to predict the outcome of Pokemon battles based on Pokemon stats and types. It includes data preprocessing, model training, evaluation, and prediction components.
+This project uses machine learning to predict the outcome of Pokemon battles based on Pokemon stats and types. It includes data preprocessing, model training, evaluation, and prediction components. https://www.kaggle.com/datasets/terminus7/pokemon-challenge
 
 ## Overview
 
