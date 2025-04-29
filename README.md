@@ -1,3 +1,4 @@
+![type_win_rates](https://github.com/user-attachments/assets/7801f316-c732-4ba6-a366-b2d055b1ce4e)
 # Pokemon Battle Prediction Project
 
 This project uses machine learning to predict the outcome of Pokemon battles based on Pokemon stats and types. It includes data preprocessing, model training, evaluation, and prediction components. https://www.kaggle.com/datasets/terminus7/pokemon-challenge
